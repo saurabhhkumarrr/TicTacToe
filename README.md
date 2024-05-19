@@ -1,2 +1,22 @@
-# Prodigy_WD_03_TicTacToe
-This repository consists of Prodigy Internship (3rd Task) for Web development internship which describes the Tic_tac_toe web application.
+# TicTacToe Game
+Welcome to my landing webpage. Source code is for showing my knowlege.
+
+# About
+its a Tic_tac_toe game application run on web.
+
+# Features
+- play with human
+- play with computer
+
+# Technology
+1. HTML
+2. CSS
+3. JavaScript
+4. Google Fonts
+5. Images source - freepik website
+
+# To open
+Clone the program to your local machine.
+
+
+
