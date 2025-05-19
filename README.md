@@ -21,3 +21,5 @@ Clone the program to your local machine.
 # Link to run
 https://codepen.io/Saurabh-the-encoder/pen/jOoWXRa
 
+https://saurabhhkumarrr.github.io/TicTacToe/
+
